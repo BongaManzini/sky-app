@@ -1,0 +1,16 @@
+{
+  "name": "SkyApp - Interactive Star Map & Planetarium",
+  "short_name": "SkyApp",
+  "description": "Interactive celestial star map with 3D maneuvering, constellation identification, AR camera mode, and offline capability.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='50' fill='%230f172a'/><polygon points='50,15 61,38 86,41 68,59 72,84 50,72 28,84 32,59 14,41 39,38' fill='%2338bdf8'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
