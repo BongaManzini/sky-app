@@ -1,5 +1,10 @@
 # 🌌 SkyApp – Celestial Star Map & Augmented Reality Planetarium
 
+> **NASA Space Apps Challenge Hackathon Project**  
+> **Challenge:** "Detailed Map throughout the stars and Galaxy — Using resources provided by Space Apps Challenge, create an app that is educational and interactive."  
+> **Deliverable:** A web application that acts like Google Maps for the stars, featuring real-time 3D navigation, constellation tracking, and mobile AR sky overlays.  
+> **Author:** Bonga Manzini (UNISA BSc Informatics Student)
+
 A high-performance, mobile-first celestial star map and augmented reality planetarium web application that lets you maneuver through the stars, identify constellations in real-time, view tonight's sky highlights, and overlay celestial bodies using your device's camera.
 
 ---
