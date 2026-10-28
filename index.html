@@ -80,7 +80,7 @@
   <header class="absolute top-0 left-0 right-0 z-30 p-4 flex flex-wrap items-center justify-between gap-3 pointer-events-none">
     <div class="pointer-events-auto flex items-center gap-3 hud-glass px-4 py-2 rounded-2xl shadow-lg">
       <div class="w-8 h-8 rounded-xl bg-gradient-to-tr from-cyan-500 to-indigo-500 flex items-center justify-center text-white font-bold shadow-md shadow-cyan-500/20">
-        ✨
+        
       </div>
       <div>
         <h1 class="text-sm font-bold tracking-wide uppercase text-cyan-300">SkyApp Planetarium</h1>
@@ -198,7 +198,7 @@
     if ('serviceWorker' in navigator) {
       window.addEventListener('load', () => {
         navigator.serviceWorker.register('./sw.js')
-          .then(reg => console.log('✅ ServiceWorker registered:', reg.scope))
+          .then(reg => console.log(' ServiceWorker registered:', reg.scope))
           .catch(err => console.log('ServiceWorker registration error:', err));
       });
     }

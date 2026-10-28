@@ -1,15 +1,15 @@
-# 🌌 SkyApp – Celestial Star Map & Augmented Reality Planetarium
+# SkyApp – Celestial Star Map & Augmented Reality Planetarium
 
-> **NASA Space Apps Challenge Hackathon Project**  
-> **Challenge:** "Detailed Map throughout the stars and Galaxy — Using resources provided by Space Apps Challenge, create an app that is educational and interactive."  
-> **Deliverable:** A web application that acts like Google Maps for the stars, featuring real-time 3D navigation, constellation tracking, and mobile AR sky overlays.  
+> **NASA Space Apps Challenge Hackathon Project** 
+> **Challenge:** "Detailed Map throughout the stars and Galaxy — Using resources provided by Space Apps Challenge, create an app that is educational and interactive." 
+> **Deliverable:** A web application that acts like Google Maps for the stars, featuring real-time 3D navigation, constellation tracking, and mobile AR sky overlays. 
 > **Author:** Bonga Manzini (UNISA BSc Informatics Student)
 
 A high-performance, mobile-first celestial star map and augmented reality planetarium web application that lets you maneuver through the stars, identify constellations in real-time, view tonight's sky highlights, and overlay celestial bodies using your device's camera.
 
 ---
 
-## ✨ Features
+## Features
 
 - **360° Celestial Sphere Maneuvering**: Drag, pan, and zoom through the celestial sphere with pitch and yaw controls.
 - **Augmented Reality (AR) Camera Mode**: Stream live video from your device camera and overlay stars, constellations, and celestial markers directly onto the night sky.
@@ -22,7 +22,7 @@ A high-performance, mobile-first celestial star map and augmented reality planet
 
 ---
 
-## 🛠️ Tech Stack
+## ️ Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -35,7 +35,7 @@ A high-performance, mobile-first celestial star map and augmented reality planet
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Run Locally
 
@@ -57,7 +57,7 @@ Open [http://localhost:8000](http://localhost:8000) in your web browser.
 
 ---
 
-## 📱 Controls & Shortcuts
+## Controls & Shortcuts
 
 - **Mouse Drag / Touch Pan**: Rotate celestial viewpoint (Azimuth & Altitude).
 - **Mouse Wheel / Pinch**: Zoom in/out (adjust Field of View).
@@ -69,6 +69,6 @@ Open [http://localhost:8000](http://localhost:8000) in your web browser.
 
 ---
 
-## 📄 License
+## License
 
 This project is open-source and licensed under the [MIT License](LICENSE).
